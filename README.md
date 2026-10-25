@@ -1,4 +1,4 @@
-# M Software Requests
+# M-Software Requests
 
 Kho lưu trữ các yêu cầu làm website được gửi qua cổng gửi yêu cầu trên trang Văn phòng M-Software. Mỗi yêu cầu là một Issue trong kho này. Đây không phải một trang web và không có bản demo trực tuyến.
 
@@ -12,6 +12,7 @@ Mở mục **Issues** của kho này để xem các yêu cầu đã gửi. Khôn
 
 | Tệp | Nội dung |
 |---|---|
+| `LICENSE` | Giấy phép MIT |
 | `README.md` | Tài liệu giới thiệu này |
 
 ## English
