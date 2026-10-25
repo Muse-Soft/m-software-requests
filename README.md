@@ -1,27 +1,21 @@
-# 📧 Cổng gửi yêu cầu — M-Software
+# M Software Requests
 
-Đây là **repo công khai** (public) để khách hàng gửi ý tưởng / yêu cầu sản phẩm cho Văn phòng M-Software.
+Kho lưu trữ các yêu cầu làm website được gửi qua cổng gửi yêu cầu trên trang Văn phòng M-Software. Mỗi yêu cầu là một Issue trong kho này. Đây không phải một trang web và không có bản demo trực tuyến.
 
-## Cách gửi yêu cầu
+> Nội dung các Issue là yêu cầu do khách gửi kèm thông tin liên hệ mà khách tự cung cấp khi gửi biểu mẫu. Kho này chỉ lưu trữ yêu cầu, không xử lý dữ liệu nào khác.
 
-1. Mở website https://msoft.genalpha.dev/
-2. Nhấn nút **📧 Gửi yêu cầu** ở phòng *Tiếp nhận* (góc phòng Tiếp nhận yêu cầu).
-3. Điền form → hệ thống tự tạo một **Issue** trong repo này.
+**Giấy phép:** [MIT](LICENSE) © M-Software
 
-## Chuyện gì xảy ra sau đó?
+## Cách xem
 
-1. **Tiếp nhận viên** (AI) đọc và phân loại yêu cầu.
-2. **BA** (Business Analyst) phân tích, có thể hỏi thêm thông tin nếu cần.
-3. Yêu cầu hợp lệ được đưa vào backlog của M-Software, rồi chạy thành **sprint** riêng — tiến độ hiển thị công khai ngay trên website https://msoft.genalpha.dev/
+Mở mục **Issues** của kho này để xem các yêu cầu đã gửi. Không cần cài đặt hay máy chủ.
 
-## Quy tắc công khai
+| Tệp | Nội dung |
+|---|---|
+| `README.md` | Tài liệu giới thiệu này |
 
-- Mọi Issue trong repo này là **công khai** — ai cũng đọc được. Đừng ghi thông tin nhạy cảm (mật khẩu, khóa bí mật, số điện thoại riêng, địa chỉ nhà…).
-- Chỉ mô tả ý tưởng sản phẩm ở mức bạn sẵn sàng chia sẻ công khai.
-- Nội dung rác / tấn công sẽ bị từ chối.
+## English
 
-## Quy tắc cho BA (vai AI)
+This repository stores website requests submitted through the request form on the M-Software office page. Each request is kept as a GitHub Issue. It is not a website and has no live demo. Licensed under MIT.
 
-- Chỉ nhận yêu cầu làm **sản phẩm nhỏ** (landing page, UI/UX); sản phẩm lớn chỉ làm ở mức MVP.
-- Muốn làm hoàn chỉnh: khách cần để lại thông tin liên hệ để M-Software chủ động liên hệ lại (không tạo sprint full-scope khi chưa có thông tin liên hệ).
-- Mỗi Issue có dòng `Nguồn (máy đọc): web` để hệ thống nhận biết là yêu cầu từ website.
+Contact: contact@genalpha.dev
